@@ -1,0 +1,7 @@
+name: ProdigyServer
+version: 1.0
+author: cocoraid
+api-version: 1.13
+depend: [ProtocolLib]
+main: fr.cocoraid.prodigyserver.ProdigyServer
+

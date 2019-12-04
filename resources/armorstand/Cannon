@@ -1,0 +1,11 @@
+black_concrete (0.0, -0.2225, 0.4375) Pose:{Head:[0f,0f,0f]}
+black_concrete (0.0, -0.2225, -0.4375) Pose:{Head:[0f,0f,0f]}
+black_concrete (0.0, -0.2225, 0.0) Pose:{Head:[0f,0f,0f]}
+black_concrete (0.0, -0.2225, -0.84375) Pose:{Head:[0f,0f,0f]}
+black_concrete (0.0, -0.2225, -1.28125) Pose:{Head:[0f,0f,0f]}
+oak_slab (0.0, -0.66, 0.65625) Pose:{Head:[0f,0f,0f]}
+oak_stairs (0.0, -0.66, 0.21875) Pose:{Head:[0f,180f,0f]}
+oak_stairs (0.0, -0.66, -0.21875) Pose:{Head:[0f,0f,0f]}
+black_concrete (0.0, -0.192073, -1.5625) Pose:{Head:[0f,0f,0f]} small
+black_concrete (0.0, -0.192073, 0.5625) Pose:{Head:[0f,0f,0f]} small
+torch (0.0, -0.255192, 0.425221) Pose:{Head:[35f,0f,0f]}
